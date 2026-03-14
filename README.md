@@ -1,50 +1,153 @@
-# 👨‍💻 Мельников Алексей
-**`Разработчик 1С | Python Developer`**  
-*Лучше сделать, чем не делать вовсе.*
+<h1 align="center">👋 Привет, я Алексей Мельников</h1>
 
-[![Telegram](https://img.shields.io/badge/-Telegram-26A5E4?logo=telegram&logoColor=white)](https://t.me/super_p)
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white)](https://github.com/DippyDingo)
-[![Email](https://img.shields.io/badge/-Email-EA4335?logo=gmail&logoColor=white)](mailto:warmfarm109@gmail.com)
+<h3 align="center">
+1С / Python Developer • Backend • Integrations • Automation
+</h3>
 
----
-
-## 🚀 Обо мне
-Разработчик с фокусом на создание интеграционных решений между 1С и современными веб-технологиями. Специализируюсь на:
-- Автоматизации бизнес-процессов
-- Разработке обработок и отчетов в 1С
-- Создании интеграционных мостов 1С ↔ Python
-- Веб-интерфейсах для 1С-систем
-
-> "Лучше сделать, чем не делать вовсе" - этот принцип лежит в основе каждого проекта
+<p align="center">
+Разрабатываю backend-сервисы, интеграции и автоматизацию между системами.  
+Фокус на <b>1С, Python, API и прикладных инструментах</b>.
+</p>
 
 ---
 
-## 🛠️ Технологический стек
-**Основные технологии:**  
-![1C](https://img.shields.io/badge/-1C_Platform-0066B3?logo=1C&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white)
+# 🚀 Технологический стек
 
-**Инструменты и фреймворки:**  
-![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)
-![aiogram](https://img.shields.io/badge/-Aiogram-2CA5E0?logo=telegram&logoColor=white)
-![SQL](https://img.shields.io/badge/-SQL-4479A1?logo=mysql&logoColor=white)
-![JSON](https://img.shields.io/badge/-JSON-000000?logo=json&logoColor=white)
+### Backend
 
-**Изучаю сейчас:**  
-![aiogram](https://img.shields.io/badge/-Aiogram-2CA5E0?logo=telegram&logoColor=white)
-![REST API](https://img.shields.io/badge/-REST_API-FF6C37?logo=postman&logoColor=white)
+<p>
+<img src="https://skillicons.dev/icons?i=python,django,postgres,git" />
+</p>
+
+### Automation / Bots
+
+<p>
+<img src="https://skillicons.dev/icons?i=python" />
+</p>
+
+- aiogram  
+- REST API  
+- SQLAlchemy  
+- aiohttp  
+
+### Frontend / Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=js,ts,react,vite,html,css" />
+</p>
+
+### Основная специализация
+
+- **1С:Предприятие 8**
+- **Python backend**
+- **интеграции между системами**
+- **автоматизация бизнес-процессов**
 
 ---
 
-## 📌 Дополнительно
-- **Сертификаты:**  
-  ⦿ Специалист по платформе 1C:Предприятие 8  
-  ⦿ Python for Data Science (Stepik)  
-- **Профессиональные принципы:**  
-  ```text
-  • DRY (Don't Repeat Yourself)
-  • KISS (Keep It Simple, Stupid)
-  • Автоматизация рутины
+# 🧠 Сейчас работаю над
+
+### Shikumi
+
+Инструмент для работы с coding-моделью.
+
+Функции:
+
+- сбор контекста проекта
+- генерация `source.txt`
+- применение XML-ответов модели к проекту
+- локальная разработческая среда
+
+**Стек**
+
+Python • Django • React • Vite
+
+🔗  
+https://github.com/DippyDingo/Shikumi
+
+---
+
+# 📦 Избранные проекты
+
+### 🤖 KAIZEN Bot
+
+Telegram-бот продуктивности.
+
+Функции:
+
+- задачи  
+- календарь  
+- дневник  
+- здоровье  
+- статистика  
+
+**Стек**
+
+Python • aiogram • SQLAlchemy • aiohttp
+
+---
+
+### 🌐 Social Network Backend
+
+Backend API социальной сети.
+
+Функции:
+
+- посты
+- комментарии
+- лайки
+- авторизация
+- геоданные
+
+**Стек**
+
+Python • Django • DRF • PostgreSQL
+
+---
+
+# 📊 GitHub статистика
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=DippyDingo&show_icons=true&theme=tokyonight"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DippyDingo&layout=compact&theme=tokyonight"/>
+
+</p>
+
+---
+
+# 📈 GitHub Activity
+
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=DippyDingo&theme=tokyo-night"/>
+</p>
+
+---
+
+# 🐍 Contribution Snake
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"/>
+</p>
+
+---
+
+# 🎓 Обучение
+
+- Специалист по платформе **1С:Предприятие 8**
+- **Python for Data Science** (Stepik)
+
+---
+
+# 📫 Контакты
+
+Telegram  
+https://t.me/super_pee  
+
+GitHub  
+https://github.com/DippyDingo
+
+---
+
+⭐ Спасибо, что заглянули в профиль
