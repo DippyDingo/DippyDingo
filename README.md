@@ -1,153 +1,42 @@
-<h1 align="center">👋 Привет, я Алексей Мельников</h1>
+<div align="center">
 
-<h3 align="center">
-1С / Python Developer • Backend • Integrations • Automation
-</h3>
+# Hi, I'm a Backend Developer 👋
 
-<p align="center">
-Разрабатываю backend-сервисы, интеграции и автоматизацию между системами.  
-Фокус на <b>1С, Python, API и прикладных инструментах</b>.
-</p>
+**Python • 1C • Integrations • Automation** Crafting clean code, scalable backend architectures, and seamless integrations.
 
----
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/super_pee)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hello.panho@gmail.com)
 
-# 🚀 Технологический стек
+</div>
 
-### Backend
+<br/>
 
-<p>
-<img src="https://skillicons.dev/icons?i=python,django,postgres,git" />
-</p>
+### 🛠 Tech Stack
 
-### Automation / Bots
+<div align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,django,fastapi,postgres,mysql,redis,docker,git,bash,linux&perline=10" />
+  </a>
+</div>
 
-<p>
-<img src="https://skillicons.dev/icons?i=python" />
-</p>
+<br/>
 
-- aiogram  
-- REST API  
-- SQLAlchemy  
-- aiohttp  
+### 📦 Projects
 
-### Frontend / Tools
+- [**Shikumi**](https://github.com/DippyDingo/Shikumi) — Инструмент для работы с coding-моделью | *Python, Django, React*
+- [**KAIZEN Bot**](https://github.com/DippyDingo/kaizen) — Telegram-бот продуктивности | *aiogram, SQLAlchemy, Redis*
+- [**Social Network API**](https://github.com/DippyDingo/social-api) — Backend социальной сети | *Django DRF, PostgreSQL, Celery*
 
-<p>
-<img src="https://skillicons.dev/icons?i=js,ts,react,vite,html,css" />
-</p>
+<br/>
 
-### Основная специализация
+### 📊 GitHub Analytics
 
-- **1С:Предприятие 8**
-- **Python backend**
-- **интеграции между системами**
-- **автоматизация бизнес-процессов**
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DippyDingo&theme=tokyonight&hide_border=true&background=1a1b26" height="150" alt="GitHub Streak" />
+</div>
 
----
+<br/>
 
-# 🧠 Сейчас работаю над
-
-### Shikumi
-
-Инструмент для работы с coding-моделью.
-
-Функции:
-
-- сбор контекста проекта
-- генерация `source.txt`
-- применение XML-ответов модели к проекту
-- локальная разработческая среда
-
-**Стек**
-
-Python • Django • React • Vite
-
-🔗  
-https://github.com/DippyDingo/Shikumi
-
----
-
-# 📦 Избранные проекты
-
-### 🤖 KAIZEN Bot
-
-Telegram-бот продуктивности.
-
-Функции:
-
-- задачи  
-- календарь  
-- дневник  
-- здоровье  
-- статистика  
-
-**Стек**
-
-Python • aiogram • SQLAlchemy • aiohttp
-
----
-
-### 🌐 Social Network Backend
-
-Backend API социальной сети.
-
-Функции:
-
-- посты
-- комментарии
-- лайки
-- авторизация
-- геоданные
-
-**Стек**
-
-Python • Django • DRF • PostgreSQL
-
----
-
-# 📊 GitHub статистика
-
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=DippyDingo&show_icons=true&theme=tokyonight"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DippyDingo&layout=compact&theme=tokyonight"/>
-
-</p>
-
----
-
-# 📈 GitHub Activity
-
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=DippyDingo&theme=tokyo-night"/>
-</p>
-
----
-
-# 🐍 Contribution Snake
-
-<p align="center">
-<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"/>
-</p>
-
----
-
-# 🎓 Обучение
-
-- Специалист по платформе **1С:Предприятие 8**
-- **Python for Data Science** (Stepik)
-
----
-
-# 📫 Контакты
-
-Telegram  
-https://t.me/super_pee  
-
-GitHub  
-https://github.com/DippyDingo
-
----
-
-⭐ Спасибо, что заглянули в профиль
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=7aa2f7&height=100&section=footer" width="100%"/>
+</div>
